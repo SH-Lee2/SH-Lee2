@@ -15,6 +15,10 @@
 </div>
 
 ### Hi there 👋
+
+블로그 : https://portfolio-sh-lee2.vercel.app/
+
+포트폴리오 : https://l-lsh.tistory.com/
 <!--
 **SH-Lee2/SH-Lee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
